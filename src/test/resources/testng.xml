@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Reqres Automation API">
+    <test name="Test API 1">
+        <classes>
+            <class name="apiauto.APITest"/>
+        </classes>
+    </test>
+</suite>
